@@ -1,0 +1,11 @@
+{
+  "name": "Python for Research",
+  "short_name": "",
+  "description": "Learn Python for Research",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6d50fc",
+  "lang": "en"
+}
